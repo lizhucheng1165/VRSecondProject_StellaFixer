@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Machine - Replicator
+* source:	https://sketchfab.com/3d-models/sci-fi-machine-replicator-01858d5edc344ff4ab11d0edce645223
+* author:	Stan (https://sketchfab.com/Stas_SayHallo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Machine - Replicator" (https://sketchfab.com/3d-models/sci-fi-machine-replicator-01858d5edc344ff4ab11d0edce645223) by Stan (https://sketchfab.com/Stas_SayHallo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
